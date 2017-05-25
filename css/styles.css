@@ -1,0 +1,12 @@
+img{
+	max-width: 100%;
+}
+
+body{
+	background-color: #031926;
+}
+
+div.movie-poster{
+	margin: 0px;
+	width: 200px;
+}
